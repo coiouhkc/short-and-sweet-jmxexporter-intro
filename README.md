@@ -22,19 +22,33 @@ _paginate: false
 
 ---
 
-# Use case 1
+# Use case #1
+
+## Cassandra
 
 ---
 
-# Use case 2
+# Use case #2
+
+## Kafka Connect
 
 ---
 
 # Demo
 
+## demo2-custom-mbeans
+
 ---
 
 # Links
+
+* https://github.com/prometheus/jmx_exporter
+* https://prometheus.github.io/jmx_exporter/
+* https://cassandra.apache.org/doc/latest/cassandra/managing/operating/metrics.html#jmx
+* https://github.com/instaclustr/cassandra-exporter
+* https://debezium.io/documentation/reference/stable/operations/monitoring.html
+* https://github.com/debezium/debezium-examples/blob/main/monitoring/README.md
+
 
 ---
 
