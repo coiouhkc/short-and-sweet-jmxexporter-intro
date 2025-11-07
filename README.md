@@ -44,6 +44,8 @@ _paginate: false
 
 * https://github.com/prometheus/jmx_exporter
 * https://prometheus.github.io/jmx_exporter/
+* https://docs.oracle.com/javase/tutorial/jmx/mbeans/index.html
+* https://www.baeldung.com/java-management-extensions
 * https://cassandra.apache.org/doc/latest/cassandra/managing/operating/metrics.html#jmx
 * https://github.com/instaclustr/cassandra-exporter
 * https://debezium.io/documentation/reference/stable/operations/monitoring.html

@@ -15,7 +15,7 @@ rules:
     feature_name: $1
     brownbag: "true"
 - pattern: "me.abratuhin.demo<type=Features, name=(.*)><>Name: (.*)"
-  name: me_abratuhin_demo_counter
+  name: me_abratuhin_demo_name
   labels:
     feature_name: $1
     name: $2
